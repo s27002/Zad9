@@ -1,0 +1,6 @@
+@Tripy_HostAddress = http://localhost:5217
+
+GET {{Tripy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
